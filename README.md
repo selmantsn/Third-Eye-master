@@ -9,7 +9,7 @@ Günümüzde teknolojinin ve yapılaşmanın gelişmesiyle engelli bireyler içi
 
 **YOLOv2**
 
-Bu android uygulaması nesne algılama için YOLOv2 modelini kullanmaktadır. Sinir ağlarını çalıştırmak için açık kaynak machine learning frameworkü olan  TensorFlow'u  kullanır. Demo uygulaması, 20 sınıf Pascal VOC veri kümesini algılar. YOLOv2 modeli hakkında daha fazla bilgi almak için bu makaleyi okuyabilirsiniz: [YOLO9000 Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf).
+Uygulama nesne algılama için YOLOv2 modelini kullanmaktadır. Sinir ağlarını çalıştırmak için açık kaynak machine learning frameworkü olan  TensorFlow'u  kullanır. Demo uygulaması, 20 sınıf Pascal VOC veri kümesini algılar. YOLOv2 modeli hakkında daha fazla bilgi almak için bu makaleyi okuyabilirsiniz: [YOLO9000 Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf).
 
 
 
@@ -26,7 +26,7 @@ Compile and Run :
 * Projeyi Android Studio içerisine Import edin;
 * Run butonuna tıklayarak projeyi çalıştırabilirsiniz
 
-![android yolo v2 sample image](https://github.com/selmantsn/Third-Eye-master/tree/master/sample/indoor.png)
+![android yolo v2 sample image](https://github.com/selmantsn/Third-Eye-master/blob/master/sample/indoor.png)
 ![android yolo v2 sample image](https://github.com/selmantsn/Third-Eye-master/tree/master/sample/outdoor.png)
 
 
