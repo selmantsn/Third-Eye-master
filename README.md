@@ -25,9 +25,9 @@ Compile and Run :
 * Bu komut ile repositoryi clonelayın: `git clone https://github.com/selmantsn/Third-Eye-master.git`;
 * Projeyi Android Studio içerisine Import edin;
 * Run butonuna tıklayarak projeyi çalıştırabilirsiniz
-
-![android yolo v2 sample image](https://github.com/selmantsn/Third-Eye-master/blob/master/sample/indoor.png)
+[
+![android yolo v2 sample image](https://github.com/selmantsn/Third-Eye-master/blob/master/sample/indoor.png),
 ![android yolo v2 sample image](https://github.com/selmantsn/Third-Eye-master/blob/master/sample/outdoor.png)
-
+]
 
 Thanks Szabo Zoltan for the contributions
