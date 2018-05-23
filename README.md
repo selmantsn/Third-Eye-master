@@ -27,7 +27,7 @@ Compile and Run :
 * Run butonuna tıklayarak projeyi çalıştırabilirsiniz
 
 ![android yolo v2 sample image](https://github.com/selmantsn/Third-Eye-master/blob/master/sample/indoor.png)
-![android yolo v2 sample image](https://github.com/selmantsn/Third-Eye-master/tree/master/sample/outdoor.png)
+![android yolo v2 sample image](https://github.com/selmantsn/Third-Eye-master/blob/master/sample/outdoor.png)
 
 
 Thanks Szabo Zoltan for the contributions
