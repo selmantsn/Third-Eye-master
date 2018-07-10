@@ -26,8 +26,16 @@ Compile and Run :
 * Projeyi Android Studio içerisine Import edin;
 * Run butonuna tıklayarak projeyi çalıştırabilirsiniz
 
-![android yolo v2 sample image](https://github.com/selmantsn/Third-Eye-master/blob/master/sample/indoor.png)
-![android yolo v2 sample image](https://github.com/selmantsn/Third-Eye-master/blob/master/sample/outdoor.png)
+![android yolo v2 sample image](https://github.com/selmantsn/Third-Eye-master/blob/master/sample/indoor-outdoor.png)
+
+
+**SolidWorks Designs**
+
+![android yolo v2 sample image](https://github.com/selmantsn/Third-Eye-master/blob/master/sample/aparatlar.png)
+
+You can download desings from this link:
+
+https://drive.google.com/drive/folders/1svSeHqGdhKtLIplSc94lgmm80F8C2akT
 
 
 Thanks Szabo Zoltan for the contributions
